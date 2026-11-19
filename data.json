@@ -1,0 +1,5 @@
+{
+  "datasets" : [
+    "deepmind-gutenberg/[1-49].dat"
+  ]
+}
